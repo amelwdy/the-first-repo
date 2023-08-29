@@ -1,2 +1,4 @@
 # the-first-repo
-This repository was created to fulfill my assignment
+
+I am editing the README file. Adding some more details about the project description.
+
